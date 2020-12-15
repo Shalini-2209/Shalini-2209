@@ -5,7 +5,7 @@
 Get to know me:
 
 - 📖 Aspiring and enthusiastic towards learning and implementing.
-- 🔭 I’m currently working on React Projects
+- 🔭 I’m currently working on React Native Projects
 - 🌱 I’m currently learning React Native
 - 😄 Pronouns: She/Her
 
