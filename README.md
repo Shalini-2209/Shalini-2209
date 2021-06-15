@@ -5,8 +5,8 @@
 Get to know me:
 
 - 📖 Aspiring and enthusiastic towards learning and implementing.
-- 🔭 I’m currently working on React Native Projects
-- 🌱 I’m currently learning Cloud Services
+- 🔭 I’m currently working on React Projects
+- 🌱 I’m currently learning Data Structures
 - 😄 Pronouns: She/Her
 
 
