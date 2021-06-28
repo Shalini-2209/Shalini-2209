@@ -12,7 +12,7 @@ Get to know me:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shalini-nithivanan-9226b9196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalini-nithivanan-9226b9196" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahana298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahana298" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/N_Shalini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahana298" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ahana298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ahana298" height="30" width="40" /></a>
 </p>
 
