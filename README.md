@@ -22,8 +22,10 @@ Get to know me:
 
 
 <a href="https://github.com/Shalini-2209">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shalini-2209&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shalini-2209&show_icons=true&line_height=27&theme=tokyonight" alt="Martin's GitHub Stats" />
 </a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shalini-2209&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 
