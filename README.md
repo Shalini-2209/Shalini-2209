@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Hi, my name is Shalini Nithivanan, currently pursing my MCA in College of Engineering Guindy.
+- Hi, I am Shalini Nithivanan, currently pursing my MCA in College of Engineering Guindy.
 
 Get to know me:
 
