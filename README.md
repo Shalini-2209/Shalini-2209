@@ -25,7 +25,7 @@ Get to know me:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shalini-2209&show_icons=true&line_height=27&theme=nightowl" alt="Martin's GitHub Stats" />
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shalini-2209&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shalini-2209&theme=nightowl&hide_border=true)
 
 
 
