@@ -5,7 +5,7 @@
 Get to know me:
 
 - 📖 Aspiring and enthusiastic towards learning and implementing.
-- 🔭 I’m currently working on React Project.
+- 🔭 I’m currently working on React Native Project.
 - 🌱 I’m currently learning Data Structures.
 - 📫 How to reach me: ... ahana298@gmail.com
 
