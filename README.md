@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-- I am Shalini Nithivanan, currently pursing my MCA in College of Engineering Guindy.
+- Greetings! I am a seasoned Senior Software Engineer specializing in Angular and Java Spring Boot with 2.7 years of hands-on experience. Throughout my career, I've focused on architecting and developing robust web applications that leverage Angular's frontend flexibility and Spring Boot's backend reliability.
 
-Get to know me:
-
-- 📖 Aspiring and enthusiastic towards learning and implementing.
-- 🔭 I’m currently working on an Angular Project.
-- 🌱 I’m currently learning Angular.
 - 📫 How to reach me: ... ahana298@gmail.com
 
 <h3 align="left">Connect with me:</h3>
@@ -39,6 +34,12 @@ Get to know me:
 <!--- 👯 I’m looking to collaborate on ...
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalini-ceg" alt="shalini-ceg"  /></p>
+Get to know me:
+
+- 📖 Aspiring and enthusiastic towards learning and implementing.
+- 🔭 I’m currently working on an Angular Project.
+- 🌱 I’m currently learning Angular.
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
